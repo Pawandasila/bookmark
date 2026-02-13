@@ -3,7 +3,6 @@ import { Skeleton } from "@/components/ui/skeleton";
 export default function Loading() {
   return (
     <div className="min-h-screen bg-slate-50 relative overflow-hidden">
-      {/* Navbar Skeleton */}
       <nav className="border-b bg-white px-4 py-3 shadow-sm">
         <div className="container mx-auto flex max-w-5xl items-center justify-between">
           <div className="flex items-center gap-3">

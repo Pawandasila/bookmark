@@ -28,7 +28,6 @@ export default async function Page() {
 
   return (
     <div className="min-h-screen bg-slate-50 relative selection:bg-indigo-100 overflow-hidden">
-      {/* Background Gradients */}
       <div className="fixed inset-0 -z-10 bg-[radial-gradient(ellipse_at_top_left,var(--tw-gradient-stops))] from-indigo-100/50 via-white to-blue-50/30 blur-3xl" />
       <div className="fixed bottom-0 right-0 -z-10 h-[500px] w-[500px] bg-linear-to-t from-blue-100/40 to-transparent blur-3xl rounded-full opacity-60" />
 

@@ -50,15 +50,9 @@ export default function LoginPage() {
               and sync their most important links in real-time.
             </p>
           </div>
-
-          <div className="text-sm text-indigo-100/60">
-            &copy; {new Date().getFullYear()} SmartMarks Inc. Professional
-            Edition.
-          </div>
         </div>
       </div>
 
-      {/* Right Column: Login Form */}
       <div className="flex flex-1 flex-col justify-center px-4 py-12 sm:px-6 lg:flex-none lg:px-20 xl:px-24 bg-slate-50/50">
         <div className="mx-auto w-full max-w-sm lg:w-96">
           <div className="lg:hidden mb-8 flex justify-center">
